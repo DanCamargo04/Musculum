@@ -2,7 +2,7 @@
 ## Projeto de Engenharia de Software
 
 Integrantes:
-Carlos Eduardo Rosendo Basseto | RA: 10409941
+Carlos Eduardo Rosendo Basseto | RA: 10409941\n
 Daniel Rubio Camargo | RA: 10408823
 Gustavo Kenzo | RA: 10408988
 João Pedro Mascaro Baccelli | RA: 10224004
